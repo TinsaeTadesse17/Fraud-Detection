@@ -1,15 +1,8 @@
-# 🛡️ Fraud Detection: E-commerce & Banking Transactions  
-_A 10 Academy Week 8&9 Challenge Project_  
-
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+# Fraud Detection: E-commerce & Banking Transactions  
 
 ## 📌 Overview
 
 This project aims to build machine learning models that **detect fraudulent e-commerce and bank transactions** using structured transaction data. It addresses core challenges in fraud detection such as **class imbalance**, **real-time prediction**, and **model interpretability**.
-
-Developed as part of the [10 Academy](https://10academy.org/) Artificial Intelligence Mastery program (Week 8&9), under the guidance of Adey Innovations Inc.
 
 ---
 
@@ -121,4 +114,4 @@ Plots available in `notebooks/shap_analysis.ipynb`.
 
 ## ✍️ Author
 
-**Dagim Mesfin Seifu**
+**Tinsae Tadesse*
