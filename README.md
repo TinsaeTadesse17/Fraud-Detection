@@ -114,4 +114,4 @@ Plots available in `notebooks/shap_analysis.ipynb`.
 
 ## ✍️ Author
 
-**Tinsae Tadesse*
+**Tinsae Tadesse**
